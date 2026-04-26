@@ -1,4 +1,5 @@
 
+<img width="435" height="518" alt="Снимок экрана 2026-04-26 в 11 40 32" src="https://github.com/user-attachments/assets/0f76c997-399f-4d37-a2ce-2789f2294df9" />
 ---
 
 ```markdown
